@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Md. Kamrul Hassan",
+    "designation": "Professor",
+    "university": "University of Dhaka",
+    "image": "Md. Kamrul Hassan.jpg",
+    "link": "https://www.du.ac.bd/body/faculty_details/THM/528"
+  },
+  {
+    "name": "Dr. M. Faridul Islam",
+    "designation": "Professor",
+    "university": "University of Rajshahi",
+    "image": "Dr. M. Faridul Islam.jpg",
+    "link": "http://rurfid.ru.ac.bd/ru_profile/public/teacher/23800378/profile"
+  },
+  {
+    "name": "Dr. Md. Saiful Islam",
+    "designation": "Assistant Professor",
+    "university": "Bangladesh Maritime University",
+    "image": "Dr. Md. Saiful Islam.jpg",
+    "link": "https://bmu.edu.bd/board_detail_ind/282"
+  }
+]

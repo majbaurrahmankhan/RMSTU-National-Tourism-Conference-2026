@@ -1,0 +1,57 @@
+[
+  {
+    "date": "16th January, Friday",
+    "events": [
+      {
+        "time": "2:30 PM - 4:00 PM",
+        "title": "Plenary Sessions",
+        "location": ""
+      },
+      {
+        "time": "7:00 PM - 9:00 PM",
+        "title": "Gala Night at Parjatan Corporation: Dinner and informal networking",
+        "location": ""
+      }
+    ]
+  },
+  {
+    "date": "17th January, Saturday",
+    "events": [
+      {
+        "time": "9:00 AM - 10:30 AM",
+        "title": "Parallel Sessions: Concurrent discussions on specialized tourism topics",
+        "location": ""
+      },
+      {
+        "time": "10:30 AM - 10:45 AM",
+        "title": "Tea Break: Refreshments and networking opportunities",
+        "location": ""
+      },
+      {
+        "time": "10:45 AM - 12:45 PM",
+        "title": "Session Continues (Oral Presentations): Presentations on research and topics related to tourism",
+        "location": ""
+      },
+      {
+        "time": "12:45 PM - 2:00 PM",
+        "title": "Lunch and Prayer Break: Lunch and informal networking",
+        "location": ""
+      },
+      {
+        "time": "2:00 PM - 3:00 PM",
+        "title": "Business Idea Competition + Poster Presentations + Traditional Exhibits",
+        "location": ""
+      },
+      {
+        "time": "3:00 PM - 4:00 PM",
+        "title": "Poster Evaluation: Judging of poster presentations",
+        "location": ""
+      },
+      {
+        "time": "4:00 PM - 4:30 PM",
+        "title": "Closing Ceremony: Final remarks and award distribution",
+        "location": ""
+      }
+    ]
+  }
+]

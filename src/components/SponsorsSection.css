@@ -1,0 +1,119 @@
+/* ============================
+   SPONSORS SECTION
+===============================*/
+
+.sponsors-section {
+  padding: 80px 20px;
+  text-align: center;
+  background: #f8f9fc;
+}
+
+.section-title {
+  font-size: 36px;
+  margin-bottom: 50px;
+  font-weight: 700;
+  color: #1a237e;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+/* ============================
+   GRID LAYOUT
+===============================*/
+.sponsors-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 30px;
+  justify-items: center;
+  align-items: center;
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+/* ============================
+   CARD DESIGN
+===============================*/
+.sponsor-card {
+  background: #ffffff;
+  width: 100%;
+  max-width: 330px;
+  height: 160px;
+
+  border-radius: 18px;
+  padding: 20px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.35s ease;
+  cursor: pointer;
+  border: 1px solid #e1e5ee;
+}
+
+/* Hover Animation */
+.sponsor-card:hover {
+  transform: translateY(-8px) scale(1.03);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.17);
+  border-color: #cfd8dc;
+}
+
+/* ============================
+   LOGO
+===============================*/
+.sponsor-logo {
+  max-width: 85%;
+  max-height: 85%;
+  object-fit: contain;
+  transition: 0.3s;
+}
+
+.sponsor-card:hover .sponsor-logo {
+  transform: scale(1.05);
+}
+
+/* ============================
+   RESPONSIVE DESIGN
+===============================*/
+
+/* Tablets */
+@media (max-width: 992px) {
+  .section-title {
+    font-size: 30px;
+  }
+
+  .sponsor-card {
+    max-width: 300px;
+    height: 150px;
+  }
+}
+
+/* Mobile Devices */
+@media (max-width: 600px) {
+  .sponsors-section {
+    padding: 50px 10px;
+  }
+
+  .section-title {
+    font-size: 26px;
+    margin-bottom: 30px;
+  }
+
+  .sponsors-grid {
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 20px;
+  }
+
+  .sponsor-card {
+    max-width: 90%;
+    height: 130px;
+    padding: 15px;
+    border-radius: 14px;
+  }
+
+
+
+
+}
