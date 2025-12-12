@@ -14,12 +14,12 @@ const keyDatesData = [
   },
   {
     title: "Notification of Acceptance",
-    date: "01 Jan 2026",
+    date: "05 Jan 2026",
     icon: icon2
   },
   {
     title: "Registration Deadline",
-    date: "07 Dec 2025",
+    date: "30 Dec 2025",
     icon: icon3
   },
   {
