@@ -9,7 +9,7 @@ import icon4 from '../assets/images/icon4.png';
 const keyDatesData = [
   {
     title: "Abstract Submission Deadline",
-    date: "25 Dec 2025",
+    date: "30 Dec 2025",
     icon: icon1
   },
   {
@@ -19,7 +19,7 @@ const keyDatesData = [
   },
   {
     title: "Registration Deadline",
-    date: "30 Dec 2025",
+    date: "07 Jan 2026",
     icon: icon3
   },
   {
