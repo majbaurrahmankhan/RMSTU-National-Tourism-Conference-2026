@@ -12,8 +12,12 @@ const ContactVenue = () => {
                 <div className="contact-box">
                     <h3>Contact Us</h3>
                     <br />
-                    <a href="tel:+8801710337907" className="px-4 py-2 bg-blue-600 text-white rounded-lg">
-                       📞 +8801710337907
+                    <a href="tel:+8801865357577" className="px-4 py-2 bg-blue-600 text-white rounded-lg">
+                       📞 +8801865357577
+                    </a>
+                    <br />
+                    <a href="tel:+8801681792622" className="px-4 py-2 bg-blue-600 text-white rounded-lg">
+                       📞 +8801681792622
                     </a>
                     <br /><br />
 
