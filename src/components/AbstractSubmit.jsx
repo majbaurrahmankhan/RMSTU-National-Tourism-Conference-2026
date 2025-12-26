@@ -20,7 +20,7 @@ const AbstractSubmit = () => {
 
 Abstracts
 
-1. All abstracts must be in ENGLISH, the combined length of the abstract title, list of authors, and body should not exceed 300 words. Please be sure to carefully check your abstract for content errors, spelling, names, etc. before submitting. RMSTU and BBBS do not proofread for correct spelling, typographical, grammatical, or scientific errors, nor can changes be made once the abstract is submitted.
+1. All abstracts must be in ENGLISH, the combined length of the abstract title, list of authors, and body should not exceed 300 words. Please be sure to carefully check your abstract for content errors, spelling, names, etc. before submitting. The organizing team does not proofread for correct spelling, typographical, grammatical, or scientific errors, nor can changes be made once the abstract is submitted.
 
 2. Title should be brief, in bold capital letters at the top of the abstract.
 
