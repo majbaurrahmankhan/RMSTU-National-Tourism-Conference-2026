@@ -96,7 +96,7 @@ Key words: List 4–6 relevant keywords separated by commas (e.g., biomarker, ge
         </button>
 
         <button className="registration-btn" onClick={handleRegistration}>
-          Registration
+          Submit
         </button>
 
         <button
