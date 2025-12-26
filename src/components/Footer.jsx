@@ -15,7 +15,7 @@ const Footer = () => {
           </p>
           
             <em>
-              Designed & Developed by MRK,CU
+              Designed & Developed by MRK, CU
               </em>
           
         </div>
@@ -35,7 +35,9 @@ const Footer = () => {
         {/* Contact Section */}
         <div className="footer-contact">
           <h3>Contact Us</h3>
-          <p>📞 <a href="tel:+8801710337907">+8801710337907</a></p>
+          <p>📞 <a href="tel:+8801865357577">+8801865357577</a></p>
+          <p>📞 <a href="tel:+8801681792622">+8801681792622</a></p>
+          </br>
           <p> ✉ <a href="  ntc@rmstu.ac.bd">  ntc@rmstu.ac.bd</a></p>
           <p>🏁 Rangamati Science & Technology University, Rangamati, Bangladesh</p>
         </div>
