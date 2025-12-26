@@ -17,7 +17,7 @@ export default function AboutNTC() {
           researchers, policymakers, entrepreneurs, and students from all over the 
           country to explore the future of tourism in Bangladesh.
           <br /><br />
-          Participants are invited to submit abstracts by <strong>December 20, 2025</strong> focusing 
+          Participants are invited to submit abstracts by <strong>December 31, 2025</strong> focusing 
           on key areas such as tourism & hospitality, tourism marketing, tourism 
           management, mountain tourism, biodiversity in tourism, sustainable 
           tourism, tourism informatics, application of AI in tourism, green financing 
