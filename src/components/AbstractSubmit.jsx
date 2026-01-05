@@ -75,7 +75,7 @@ Key words: List 4–6 relevant keywords separated by commas (e.g., biomarker, ge
   const handleRegistration = () => {
     if (window.confirm("You are about to go to the registration page. Click OK to continue.")) {
       window.open(
-        "https://events.myorbit.solutions/cfp/NTC26RMSTU=TKmzTXqJe91765441393",
+        "https://events.myorbit.solutions/en/events/explore-events/27",
         "_blank"
       );
     }
@@ -96,7 +96,7 @@ Key words: List 4–6 relevant keywords separated by commas (e.g., biomarker, ge
         </button>
 
         <button className="registration-btn" onClick={handleRegistration}>
-          Submit
+          Registration
         </button>
 
         <button
