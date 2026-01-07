@@ -19,7 +19,7 @@ const keyDatesData = [
   },
   {
     title: "Registration Deadline",
-    date: "07 Jan 2026",
+    date: "09 Jan 2026",
     icon: icon3
   },
   {
